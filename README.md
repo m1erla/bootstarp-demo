@@ -1,5 +1,5 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# Instagram Bootstrap Clone
+Simple HTML Instagram clone made with Bootstrap. Just for now
 - [Furkan Karakus | Patika](https://academy.patika.dev/tr/profile)
 # Page
 ![Gif](https://user-images.githubusercontent.com/116915007/233135764-7f54db90-e44e-4897-90a9-38da5a16a0b0.gif)
